@@ -17,8 +17,8 @@
 - GitHub repository: https://github.com/trangiabao1875-droid/237545_TranGiaBao.git
 - Docker Hub Backend: https://hub.docker.com/repository/docker/237545trangiabao/backend/general
 - Docker Hub Frontend: https://hub.docker.com/repository/docker/237545trangiabao/frontend/general
-- Render App: 
-- Render API: 
+- Render App: https://web-237545.onrender.com
+- Render API: https://api-237545.onrender.com
 - MongoDB Atlas: mongodb+srv://trangiabao1875_db_user:xFFeKyCMnrBh2vIT@cluster0.v46rbou.mongodb.net/
 
 
